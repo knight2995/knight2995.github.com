@@ -6,9 +6,28 @@
     <description>Recent content in Tags on Duckbo&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>kr-ko</language>
+    <lastBuildDate>Wed, 01 Jan 2020 07:34:56 +0900</lastBuildDate>
     
 	<atom:link href="https://knight2995.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>review</title>
+      <link>https://knight2995.github.io/tags/review/</link>
+      <pubDate>Wed, 01 Jan 2020 07:34:56 +0900</pubDate>
+      
+      <guid>https://knight2995.github.io/tags/review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>year-review</title>
+      <link>https://knight2995.github.io/tags/year-review/</link>
+      <pubDate>Wed, 01 Jan 2020 07:34:56 +0900</pubDate>
+      
+      <guid>https://knight2995.github.io/tags/year-review/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
