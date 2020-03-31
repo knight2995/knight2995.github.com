@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>opencv on Duckbo&#39;s Blog</title>
+    <link>https://knight2995.github.io/tags/opencv/</link>
+    <description>Recent content in opencv on Duckbo&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>kr-ko</language>
+    <lastBuildDate>Mon, 30 Mar 2020 16:33:17 +0900</lastBuildDate>
+    
+	<atom:link href="https://knight2995.github.io/tags/opencv/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>FFMpeg을 이용한 GOP 분리</title>
+      <link>https://knight2995.github.io/study/ffmpeg%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-gop-%EB%B6%84%EB%A6%AC/</link>
+      <pubDate>Mon, 30 Mar 2020 16:33:17 +0900</pubDate>
+      
+      <guid>https://knight2995.github.io/study/ffmpeg%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-gop-%EB%B6%84%EB%A6%AC/</guid>
+      <description>FFMpeg을 이용한 GOP(Group of Picture) 분리 Vidoe 파일의 구조 비디오파일, 즉 동영상은 여러 정영상의 합으로 표현될 수 있다. 각각의 영상에 대해 여러가지 압축 방법을 통해 압축되고 이를 연결한 것이라 볼 수 있다.
+이러한 동영상의 압축에 대한 자세한 얘기는 미뤄두고 간단한 예제를 들어 설명해보겠다.</description>
+    </item>
+    
+  </channel>
+</rss>
