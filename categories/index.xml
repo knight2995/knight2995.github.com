@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Duckbo&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>kr-ko</language>
-    <lastBuildDate>Fri, 17 Jul 2020 20:02:40 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2020 14:12:23 +0900</lastBuildDate>
     
 	<atom:link href="https://knight2995.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>study</title>
+      <link>https://knight2995.github.io/categories/study/</link>
+      <pubDate>Sat, 18 Jul 2020 14:12:23 +0900</pubDate>
+      
+      <guid>https://knight2995.github.io/categories/study/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Log</title>

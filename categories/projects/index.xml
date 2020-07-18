@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>projects on Duckbo&#39;s Blog</title>
+    <link>https://knight2995.github.io/categories/projects/</link>
+    <description>Recent content in projects on Duckbo&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>kr-ko</language>
+    <lastBuildDate>Sat, 18 Jul 2020 14:12:23 +0900</lastBuildDate>
+    
+	<atom:link href="https://knight2995.github.io/categories/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Go Echo를 이용한 RESTFUL Server 구축(0)</title>
+      <link>https://knight2995.github.io/project/go-echo%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-restful-server-%EA%B5%AC%EC%B6%950/</link>
+      <pubDate>Sat, 18 Jul 2020 14:12:23 +0900</pubDate>
+      
+      <guid>https://knight2995.github.io/project/go-echo%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-restful-server-%EA%B5%AC%EC%B6%950/</guid>
+      <description>테스트</description>
+    </item>
+    
+  </channel>
+</rss>
